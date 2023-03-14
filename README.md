@@ -17,3 +17,6 @@ Assignemnt 2
 Creating and Managing a database content in MySQL and Workbench.
 
 Assignment 3
+See 'Clean-HollywoordsMostProfitableStories' in the data panel of the report.
+
+Visualising with Power BI using Gestalt principles.
