@@ -14,6 +14,6 @@ Third Task
 Visualising the content in Tableau.
 
 Assignemnt 2
-
+Using MySQL workbench to manage Dabase content.
 
 Assignment 3
